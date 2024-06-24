@@ -10,6 +10,7 @@ public class FuncionarioTeste01 {
 
         funcionario01.setNome("Kaiki");
         funcionario01.setIdade(25);
+        funcionario01.setIdade(25);
         funcionario01.setSalarios(new double[]{7500, 6500, 9000});
 
 /*        funcionario02.nome = "Lucas";
