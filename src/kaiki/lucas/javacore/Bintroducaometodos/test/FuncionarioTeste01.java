@@ -13,10 +13,10 @@ public class FuncionarioTeste01 {
         funcionario01.setIdade(25);
         funcionario01.setSalarios(new double[]{7500, 6500, 9000});
 
-/*        funcionario02.nome = "Lucas";
-        funcionario02.idade = 42;
-        funcionario02.salarios = new double[]{14000, 18000, 19000};
-*/
+//      funcionario02.nome = "Lucas";
+//        funcionario02.idade = 42;
+//        funcionario02.salarios = new double[]{14000, 18000, 19000};
+
         funcionario01.imprimirDados();
         System.out.println("Funcionario 1");
 
