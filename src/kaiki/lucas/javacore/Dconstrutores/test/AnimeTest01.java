@@ -7,5 +7,6 @@ public class AnimeTest01 {
         Anime anime = new Anime("Akudama Drive", "TV", 12,"Ação", "Production IG");
 
         anime.imprime();
+        anime.imprime();
     }
 }
