@@ -25,6 +25,7 @@ public class Anime {
             System.out.print(episodio + " ");
         }
         System.out.println();
+        System.out.println();
     }
 
     public String getNome() {
