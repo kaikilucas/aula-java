@@ -44,6 +44,7 @@ public class Anime {
             System.out.print(episodio + " ");
             System.out.print(episodio + " ");
             System.out.print(episodio + " ");
+            System.out.print(episodio + " ");
         }
         System.out.println();
 
